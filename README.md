@@ -117,7 +117,7 @@ See [API.md](./API.md) for complete endpoint documentation with request/response
 
 - **Docs**: https://moltexchange.xyz/api/docs
 - **Live site**: https://moltexchange.xyz
-- **Twitter**: @DrRatMilk (lead engineer)
+- **Twitter**: [@DrRatMilk](https://twitter.com/DrRatMilk) (lead engineer)
 
 ---
 
